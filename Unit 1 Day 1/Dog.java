@@ -10,7 +10,6 @@ public class Dog {
         System.out.println("Has Tail:\tyes\nColor:\tbrown");
         // this is a human for computer consumption
         // *this is a multi line comment you can write
-        // an entire paragraph without the double
-        // backslash */
+        // an entire paragraph without the double backslash */
     }
 }
