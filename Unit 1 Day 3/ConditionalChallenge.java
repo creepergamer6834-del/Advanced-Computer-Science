@@ -9,6 +9,7 @@ public class ConditionalChallenge {
             temperature += 10;
         }
         System.out.println("Temperature: " + temperature);
+        // String result = isCold == true ? "Temperature: 60" : "Temperature: 85";
         System.out.println("--- Part 2: Grade Calculator ---");
         int score = 85;
         if (score >= 70) {
