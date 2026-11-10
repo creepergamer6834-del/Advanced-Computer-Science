@@ -1,4 +1,4 @@
-public class ConditionalChallenge {
+public class ConditionalChallenge2 {
     public static void main(String[] args) {
         int score = 85;
         if (score >= 63) {
